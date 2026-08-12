@@ -1,0 +1,3 @@
+x1 = 123
+Write x1 16
+Read x2 16

@@ -1,0 +1,15 @@
+x1 = 20
+x2 = 5
+
+x3 = x1 + x2
+Write x3 16
+
+Read x4 16
+
+x5 = x4 - x2
+
+BGT .greater
+
+x1 = 0
+
+.greater
